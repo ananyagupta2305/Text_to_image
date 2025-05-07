@@ -5,7 +5,6 @@ This web app allows you to generate stunning images from text (or voice) prompts
 ## 🚀 Features
 - Text or Voice input for prompts
 - Adjustable quality and creativity settings
-- 4 image styles: Realistic, Cartoon, Abstract, Cyberpunk
 - View history and save favorite generations
 - RAM and GPU monitoring
 
