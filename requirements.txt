@@ -1,0 +1,7 @@
+streamlit
+diffusers
+torch
+huggingface_hub
+Pillow
+psutil
+speechrecognition
