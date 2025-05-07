@@ -14,7 +14,7 @@ This web app allows you to generate stunning images from text (or voice) prompts
 
 ## 🛠️ Setup
 
-git clone https://github.com/ananyagupta2305/text-to-image-generator.git<br>
+git clone [https://github.com/ananyagupta2305/text-to-image-generator.git](https://github.com/ananyagupta2305/Text_to_image.git)<br>
 cd text-to-image-generator<br>
 pip install -r requirements.txt<br>
 streamlit run app.py<br>
